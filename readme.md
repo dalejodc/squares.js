@@ -19,5 +19,7 @@ Basically we are getting the reference of every dot (x, y). We are checking if t
 
 Lets take a look to a 3x3
 
+![image](https://user-images.githubusercontent.com/36966980/72659207-d0828300-3981-11ea-9849-b476029f8106.png)
+
 ## Known issues
 - Irregular square rotation is not supported
